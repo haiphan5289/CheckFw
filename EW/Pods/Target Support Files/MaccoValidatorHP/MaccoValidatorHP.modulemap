@@ -1,0 +1,6 @@
+framework module MaccoValidatorHP {
+  umbrella header "MaccoValidatorHP-umbrella.h"
+
+  export *
+  module * { export * }
+}

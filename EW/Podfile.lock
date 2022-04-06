@@ -1,0 +1,16 @@
+PODS:
+  - MaccoValidatorHP (1.0.0)
+
+DEPENDENCIES:
+  - MaccoValidatorHP
+
+SPEC REPOS:
+  trunk:
+    - MaccoValidatorHP
+
+SPEC CHECKSUMS:
+  MaccoValidatorHP: a7cc57853a247704f45146161279ce7790698b4c
+
+PODFILE CHECKSUM: a9de842937478e2df1d8a84d3296183258a76a99
+
+COCOAPODS: 1.11.3

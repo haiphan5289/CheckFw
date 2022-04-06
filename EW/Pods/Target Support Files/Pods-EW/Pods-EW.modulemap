@@ -1,0 +1,6 @@
+framework module Pods_EW {
+  umbrella header "Pods-EW-umbrella.h"
+
+  export *
+  module * { export * }
+}

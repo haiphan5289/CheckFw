@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MaccoValidatorHP"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "this frame is the first of my"
   spec.description  = "I'm good with iOS dev, You can access it every time"
 

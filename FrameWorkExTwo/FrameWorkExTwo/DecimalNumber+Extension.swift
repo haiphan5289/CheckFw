@@ -12,4 +12,7 @@ extension NSDecimalNumber {
         let value = Double(truncating: self)
         return String(format:"%.2f", value)
     }
+    func sayHello() {
+        print("=== Hello")
+    }
 }

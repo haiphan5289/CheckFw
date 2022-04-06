@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  EW
+//  EW22
 //
 //  Created by haiphan on 06/04/2022.
 //

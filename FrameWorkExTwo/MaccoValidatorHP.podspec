@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MaccoValidatorHP"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "this frame is the first of my"
   spec.description  = "I'm good with iOS dev, You can access it every time"
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   # spec.tvos.deployment_target = "9.0"
 
 
-  spec.source       = { :git => "https://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@github.com/haiphan5289/CheckFw.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://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@github.com/haiphan5289/CheckFw.git", :tag => spec.version.to_s }
   spec.source_files  = "FrameWorkExTwo/**/*.{swift}"
   spec.swift_version = "5.0"
 

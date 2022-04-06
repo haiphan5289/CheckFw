@@ -15,4 +15,8 @@ public struct CheckFw {
         print("== Say")
     }
     
+    static public func sayHello() {
+        print("== Say Heelo")
+    }
+    
 }

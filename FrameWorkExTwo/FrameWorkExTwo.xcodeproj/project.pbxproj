@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		930C066627FD7DAC006B992A /* FrameWorkExTwo.h in Headers */ = {isa = PBXBuildFile; fileRef = 930C066427FD7DAC006B992A /* FrameWorkExTwo.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		930C066E27FD7DC9006B992A /* CheckFW.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930C066D27FD7DC9006B992A /* CheckFW.swift */; };
+		930C071D27FDC6D6006B992A /* DecimalNumber+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930C071C27FDC6D6006B992A /* DecimalNumber+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		930C066427FD7DAC006B992A /* FrameWorkExTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameWorkExTwo.h; sourceTree = "<group>"; };
 		930C066527FD7DAC006B992A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		930C066D27FD7DC9006B992A /* CheckFW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckFW.swift; sourceTree = "<group>"; };
+		930C071C27FDC6D6006B992A /* DecimalNumber+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DecimalNumber+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 				930C066427FD7DAC006B992A /* FrameWorkExTwo.h */,
 				930C066527FD7DAC006B992A /* Info.plist */,
 				930C066D27FD7DC9006B992A /* CheckFW.swift */,
+				930C071C27FDC6D6006B992A /* DecimalNumber+Extension.swift */,
 			);
 			path = FrameWorkExTwo;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				930C071D27FDC6D6006B992A /* DecimalNumber+Extension.swift in Sources */,
 				930C066E27FD7DC9006B992A /* CheckFW.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,5 +1,5 @@
 PODS:
-  - MaccoValidatorHP (1.0.0)
+  - MaccoValidatorHP (1.0.1)
 
 DEPENDENCIES:
   - MaccoValidatorHP
@@ -9,7 +9,7 @@ SPEC REPOS:
     - MaccoValidatorHP
 
 SPEC CHECKSUMS:
-  MaccoValidatorHP: a7cc57853a247704f45146161279ce7790698b4c
+  MaccoValidatorHP: 523a5d743ec70e3912c1f6e2f8f71d8d219679f9
 
 PODFILE CHECKSUM: a9de842937478e2df1d8a84d3296183258a76a99
 

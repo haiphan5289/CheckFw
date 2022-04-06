@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   # spec.tvos.deployment_target = "9.0"
 
 
-  spec.source       = { :git => "https://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@github.com/haiphan5289/CheckFw.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://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@github.com/haiphan5289/CheckFw.git", :tag => spec.version.to_s }
   spec.source_files  = "FrameWorkExTwo/**/*.{swift}"
   spec.swift_version = "5.0"
 
